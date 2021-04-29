@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "single page application",
   "main": "index.js",
+  "repository": "https://github.com/mh3mh0/cientificoJsVanilla.git",
   "scripts": {
     "build": "webpack --mode production",
     "start": "webpack serve --open --mode development --env development"
